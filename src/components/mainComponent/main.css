@@ -1,0 +1,70 @@
+.main--div{
+    padding: 3rem 0 2rem;
+    text-align: center;
+}
+.main--div h2{
+    margin: 1rem 0 .6rem;
+    font-size: 3rem;
+    font-weight: 400;
+}
+.main--div p{
+    width: 50%;
+    margin: .5rem auto;
+    line-height: 1.8;
+    font-size: 1.2rem;
+}
+.main--flex{
+    width: 70%;
+    margin: 1rem auto;
+}
+.main--flex .card{
+    width: 30%;
+    text-align: center;
+}
+.main--flex h3{
+    border: 1px solid rgba(34, 34, 34, 0.52);
+    border-radius: .1rem .1rem 0 0;
+    padding: .5rem 0;
+    font-size: 1.4rem;
+    background: rgba(184, 181, 181, 0.233);
+}
+.main--flex h4{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.main--flex h4>span{
+    color: rgba(0, 0, 0, 0.609);
+}
+.main--flex .btn{
+    margin: 1rem .5rem;
+}
+.main--flex p{
+    line-height: 1.5;
+    margin: .4rem 0;
+}
+
+.footer{
+    margin: 2rem 0 0;
+    padding: 1rem 0 0;
+}
+.footer--div{
+    width: 70%;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+.footer--div ul{
+    list-style: none;
+}
+.footer--div li{
+    padding: .3rem 0;
+}
+.footer--div li>img{
+    width: 50px;
+}
+.footer--div li>a{
+    color: inherit;
+    text-decoration: none;
+    font-size: 1.05rem;
+}
+
+
